@@ -1,0 +1,6 @@
+#Archivos para ignorar en el repositorio
+PRUEBA.txt
+*.tmp
+#Carpetas para ignorar en el repositorio
+/temp
+/binarios
